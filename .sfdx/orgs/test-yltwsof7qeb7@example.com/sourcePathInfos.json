@@ -1,0 +1,179 @@
+[
+    [
+        "C:\\ForDemo\\DemoProject\\force-app",
+        {
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544812879940,
+            "changeTime": 1544812879940,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main",
+        {
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544812879940,
+            "changeTime": 1544812879940,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544812879941,
+            "changeTime": 1544812879941,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544813240843,
+            "changeTime": 1544813240843,
+            "contentHash": "decfed22b0a4d04a6c1a9dc87955795f9cdc6b8c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject",
+        {
+            "sourcePath": "C:\\ForDemo\\DemoProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544812951455,
+            "changeTime": 1544812951455,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1544813240850,
+            "changeTime": 1544813240850,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 54,
+            "modifiedTime": 1544813442399,
+            "changeTime": 1544813442399,
+            "contentHash": "95c590957c61900ed0f89b1fc56dc114465e2698"
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent",
+        {
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544813240852,
+            "changeTime": 1544813240852,
+            "contentHash": "e4c81007075d4c2a8068ef6dbb88e4801c1c7d98",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544813483825,
+            "changeTime": 1544813483825,
+            "contentHash": "04d744ae69312fd8e26c6902ced5d7c70cf798ad"
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorld.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorld.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 126,
+            "modifiedTime": 1544813417992,
+            "changeTime": 1544813417992,
+            "contentHash": "c5d525a4c22628c934cd1704ef7e5026489ed1f2"
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1544813348534,
+            "changeTime": 1544813348535,
+            "contentHash": "691b035869ec4627730139180be4c1c4069b3328"
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorldTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorldTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1544813413366,
+            "changeTime": 1544813413366,
+            "contentHash": "17601b365e2c1ebe872953c496767d934fe005a9"
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorldTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorldTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1544813495294,
+            "changeTime": 1544813495294,
+            "contentHash": "aea718240dfb76d3f04015101b927817a30d4e5b"
+        }
+    ]
+]

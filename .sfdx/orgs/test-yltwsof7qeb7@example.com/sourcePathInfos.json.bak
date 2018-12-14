@@ -1,0 +1,114 @@
+[
+    [
+        "C:\\ForDemo\\DemoProject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544812879940,
+            "changeTime": 1544812879940,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544812879940,
+            "changeTime": 1544812879940,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544812879941,
+            "changeTime": 1544812879941,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544813240843,
+            "changeTime": 1544813240843,
+            "contentHash": "decfed22b0a4d04a6c1a9dc87955795f9cdc6b8c"
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ForDemo\\DemoProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544812951455,
+            "changeTime": 1544812951455,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544813240850,
+            "changeTime": 1544813240850,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 56,
+            "modifiedTime": 1544813240853,
+            "changeTime": 1544813240853,
+            "contentHash": "72aa71dbb16c9f1f1d2063ebc18ec4589e3120ea"
+        }
+    ],
+    [
+        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544813240852,
+            "changeTime": 1544813240852,
+            "contentHash": "e4c81007075d4c2a8068ef6dbb88e4801c1c7d98"
+        }
+    ]
+]
