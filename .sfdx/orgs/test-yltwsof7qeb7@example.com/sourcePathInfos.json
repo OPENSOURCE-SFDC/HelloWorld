@@ -1,8 +1,8 @@
 [
     [
-        "C:\\ForDemo\\DemoProject\\force-app",
+        "c:\\ForDemo\\HelloWorld\\force-app",
         {
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1544812879940,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject\\force-app\\main",
+        "c:\\ForDemo\\HelloWorld\\force-app\\main",
         {
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1544812879940,
@@ -30,9 +30,9 @@
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject\\force-app\\main\\default",
+        "c:\\ForDemo\\HelloWorld\\force-app\\main\\default",
         {
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1544812879941,
@@ -45,9 +45,9 @@
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura",
+        "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\aura",
         {
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1544813240843,
@@ -58,9 +58,9 @@
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject",
+        "c:\\ForDemo\\HelloWorld",
         {
-            "sourcePath": "C:\\ForDemo\\DemoProject",
+            "sourcePath": "c:\\ForDemo\\HelloWorld",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1544812951455,
@@ -73,9 +73,9 @@
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
+        "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
         {
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
             "isDirectory": false,
             "size": 228,
             "modifiedTime": 1544813240850,
@@ -86,22 +86,22 @@
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
+        "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
         {
-            "state": "u",
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 54,
             "modifiedTime": 1544813442399,
             "changeTime": 1544813442399,
-            "contentHash": "95c590957c61900ed0f89b1fc56dc114465e2698"
+            "contentHash": "95c590957c61900ed0f89b1fc56dc114465e2698",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent",
+        "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\aura\\DemoComponent",
         {
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\aura\\DemoComponent",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\aura\\DemoComponent",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1544813240852,
@@ -112,68 +112,68 @@
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes",
+        "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\classes",
         {
-            "state": "u",
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544813483825,
             "changeTime": 1544813483825,
-            "contentHash": "04d744ae69312fd8e26c6902ced5d7c70cf798ad"
+            "contentHash": "04d744ae69312fd8e26c6902ced5d7c70cf798ad",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorld.cls",
+        "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorld.cls",
         {
-            "state": "u",
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorld.cls",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorld.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 126,
             "modifiedTime": 1544813417992,
             "changeTime": 1544813417992,
-            "contentHash": "c5d525a4c22628c934cd1704ef7e5026489ed1f2"
+            "contentHash": "c5d525a4c22628c934cd1704ef7e5026489ed1f2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+        "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 188,
             "modifiedTime": 1544813348534,
             "changeTime": 1544813348535,
-            "contentHash": "691b035869ec4627730139180be4c1c4069b3328"
+            "contentHash": "691b035869ec4627730139180be4c1c4069b3328",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorldTest.cls",
+        "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorldTest.cls",
         {
-            "state": "u",
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorldTest.cls",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorldTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1544813413366,
             "changeTime": 1544813413366,
-            "contentHash": "17601b365e2c1ebe872953c496767d934fe005a9"
+            "contentHash": "17601b365e2c1ebe872953c496767d934fe005a9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorldTest.cls-meta.xml",
+        "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorldTest.cls-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\ForDemo\\DemoProject\\force-app\\main\\default\\classes\\HelloWorldTest.cls-meta.xml",
+            "sourcePath": "c:\\ForDemo\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorldTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1544813495294,
             "changeTime": 1544813495294,
-            "contentHash": "aea718240dfb76d3f04015101b927817a30d4e5b"
+            "contentHash": "aea718240dfb76d3f04015101b927817a30d4e5b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
